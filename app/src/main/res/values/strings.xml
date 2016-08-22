@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimerApp</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="finish">Finish</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="reset">Reset</string>
+</resources>
